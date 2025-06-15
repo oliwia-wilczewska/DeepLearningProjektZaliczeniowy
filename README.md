@@ -1,1 +1,1 @@
-# DeepLearningProjektZaliczeniowy
+# Projekt zaliczeniowy z przedmiotu Deep Learning
