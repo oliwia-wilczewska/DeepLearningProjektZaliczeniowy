@@ -14,8 +14,6 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 - [Modele i wagi](#modele-i-wagi)  
 - [Wyniki i wizualizacje](#wyniki-i-wizualizacje)  
 - [Źródła](#źródła)  
-- [Instrukcja uruchomienia](#instrukcja-uruchomienia)  
-- [Autor](#autor)  
 
 ---
 
