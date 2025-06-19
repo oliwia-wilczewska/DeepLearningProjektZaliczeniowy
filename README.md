@@ -30,17 +30,16 @@ Celem projektu jest porównanie kilku architektur sieci konwolucyjnych w zadaniu
 
 ## Struktura repozytorium
 
-PROJEKT_ZALICZENIOWY/
-├── data_exploration.ipynb # Notebook testowy – nie wykorzystany w finalnej wersji
-├── model_training.ipynb # Notebook do trenowania wszystkich modeli
-├── model_evaluation.ipynb # Notebook do porównania i wizualizacji wyników
-├── model_vgg.bson # Wagi wytrenowanego modelu VGG-like
-├── model_resNet.bson # Wagi wytrenowanego modelu ResNet
-├── model_allcnn.bson # Wagi wytrenowanego modelu All-CNN
-├── model_small_convnet.bson # Wagi wytrenowanego małego ConvNetu
-├── plots/ # Wykresy i tabele wygenerowane w trakcie analizy
-│ └── …
-└── sources/ # Materiały źródłowe (PDF, artykuły)
+- **PROJEKT_ZALICZENIOWY/**
+  - `data_exploration.ipynb` – notebook testowy (nieużywany finalnie)
+  - `model_training.ipynb` – trening modeli
+  - `model_evaluation.ipynb` – porównanie wyników
+  - `model_vgg.bson` – wagi modelu VGG-like
+  - `model_resNet.bson` – wagi modelu ResNet
+  - `model_allcnn.bson` – wagi modelu All-CNN
+  - `model_small_convnet.bson` – wagi małego ConvNetu
+  - **plots/** – wykresy i tabele
+  - **sources/** – pliki źródłowe (PDF)
 
 ---
 
